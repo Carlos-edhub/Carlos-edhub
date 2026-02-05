@@ -1,5 +1,6 @@
-## Hi there 👋
-Bienvenido a mi mundo 🌏🌌
+## Hola amigos, ¿que tal? Let's coding for a better world together  👋<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/680fedf1-0e17-411e-a867-0d61096716a2" />
+
+Bienvenidos a mi mundo 🌏🌌
 
 Hola mi nombre es Carlos Daniel Cárdenas Beltrán, soy estudiante de último año en Desarrollo de Aplicaciones Multiplataforma (DAM).  
 <!--
