@@ -1,4 +1,4 @@
-## Hola amigos, ¿que tal? Let's coding for a better world together  👋<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/680fedf1-0e17-411e-a867-0d61096716a2" />
+## Hola amigos, ¿que tal? Let's coding for a better world together  👋<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/680fedf1-0e17-411e-a867-0d61096716a2" />
 
 Bienvenidos a mi mundo 🌏🌌 
 
