@@ -1,6 +1,7 @@
 ## Hola amigos, ¿que tal? Let's coding for a better world together  👋<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/680fedf1-0e17-411e-a867-0d61096716a2" />
 
-Bienvenidos a mi mundo 🌏🌌 
+
+Bienvenidos a mi mundo 🌏🌌 <video src="C:\Users\carlo\Downloads\doodle-color-316-growth-hover-pinch.mp4" width="300" autoplay loop muted></video>
 
 Hola mi nombre es Carlos Daniel Cárdenas Beltrán, soy estudiante de último año en Desarrollo de Aplicaciones Multiplataforma (DAM). Aparte del mundo tecnológico soy técnico profesional en Comercio Internacional y Transporte y Logistica. Me apasiona la programación y codificar, llevo inmerso en el mundo tecnológico varios años pero ahora enfocado en la informática. Me gusta crear, innovar y sacarle el máximo provecho al mundo informático y digital en mi día a día.    
 <!--
