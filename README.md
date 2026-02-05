@@ -1,5 +1,7 @@
 ## Hi there 👋
+Bienvenido a mi mundo 🌏🌌
 
+Hola mi nombre es Carlos Daniel Cárdenas Beltrán, soy estudiante de último año en Desarrollo de Aplicaciones Multiplataforma (DAM).  
 <!--
 **Carlos-edhub/Carlos-edhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
