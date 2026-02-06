@@ -49,7 +49,7 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
       cursor: pointer;
       z-index: 10;"><</button>
 
-    <button onclick="nextSlide()" style="
+   <button onclick="nextSlide()" style="
       position: absolute;
       top:50%;
       left: 10px;
