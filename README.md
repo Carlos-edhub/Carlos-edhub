@@ -82,7 +82,7 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
 
 | | | |
 |---|---|---|
-| [![Análisis de Datos](https://via.placeholder.com/250x150/0066FF/FFFFFF?text=📊)](https://canva.com/link1) | [![Marketing](https://via.placeholder.com/250x150/00D4FF/0A0B2A?text=📱)](https://canva.com/link2) | [![Educación](https://via.placeholder.com/250x150/8A2BE2/FFFFFF?text=🎓)](https://canva.com/link3) |
+| [![Contenido perfume árabe](https://via.placeholder.com/250x150/0066FF/FFFFFF?text=📊)](https://www.canva.com/design/DAHARBdSBy0/WWrtu5QMKyjHG8-tLyjOqQ/edit?utm_content=DAHARBdSBy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [![Marketing](https://via.placeholder.com/250x150/00D4FF/0A0B2A?text=📱)](https://canva.com/link2) | [![Educación](https://via.placeholder.com/250x150/8A2BE2/FFFFFF?text=🎓)](https://canva.com/link3) |
 | **Análisis de Datos** | **Marketing Digital** | **Educación Online** |
 | [![Ver Presentación](https://img.shields.io/badge/VER-0066FF)](https://canva.com/link1) | [![Ver Presentación](https://img.shields.io/badge/VER-00D4FF)](https://canva.com/link2) | [![Ver Presentación](https://img.shields.io/badge/VER-8A2BE2)](https://canva.com/link3) |
 
