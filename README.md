@@ -82,9 +82,12 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
 
 | | | |
 |---|---|---|
-| [![Contenido perfume árabe](https://r-charts.com/es/miscelanea/procesamiento-imagenes-magick/)](https://www.canva.com/design/DAHARBdSBy0/WWrtu5QMKyjHG8-tLyjOqQ/edit?utm_content=DAHARBdSBy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [![Sostenibilidad Digital](https://www.canva.com/design/DAG27nWTPqk/-DVjvhS9WIjQgN_0pa_lRA/edit?utm_content=DAG27nWTPqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
-| **Marketing Digital** | **Consciencia Digital** |
-| [![Ver Presentación](https://www.canva.com/design/DAHARBdSBy0/WWrtu5QMKyjHG8-tLyjOqQ/edit?utm_content=DAHARBdSBy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [![Ver Presentación](https://www.canva.com/design/DAG27nWTPqk/-DVjvhS9WIjQgN_0pa_lRA/edit?utm_content=DAG27nWTPqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| [![Perfume Árabe](https://via.placeholder.com/280x180/0066FF/FFFFFF?text=🫙+Perfume+Árabe&font-size=16)](https://canva.com/design/ABC123/view) | [![Sostenibilidad Digital](https://via.placeholder.com/280x180/00D4FF/0A0B2A?text=🌱+Sostenibilidad+Digital)](https://canva.com/design/DEF456/view) | [![Marketing Digital](https://via.placeholder.com/280x180/8A2BE2/FFFFFF?text=📱+Marketing+Digital)](https://canva.com/design/GHI789/view) |
+| **Contenido Perfume Árabe**<br>Estrategias de marketing olfativo | **Sostenibilidad Digital**<br>Prácticas eco-friendly en digital | **Marketing Digital**<br>Estrategias actuales para redes |
+| [![Ver Presentación](https://img.shields.io/badge/VER_PRESENTACIÓN-0066FF?style=flat&logo=eye)](https://canva.com/design/ABC123/view) | [![Ver Presentación](https://img.shields.io/badge/VER_PRESENTACIÓN-00D4FF?style=flat)](https://canva.com/design/DEF456/view) | [![Ver Presentación](https://img.shields.io/badge/VER_PRESENTACIÓN-8A2BE2?style=flat)](https://canva.com/design/GHI789/view) |
+| [![Consciencia Digital](https://via.placeholder.com/280x180/0A0B2A/00D4FF?text=🧠+Consciencia+Digital)](https://canva.com/design/JKL012/view) | | |
+| **Consciencia Digital**<br>Uso responsable de tecnología | | |
+| [![Ver Presentación](https://img.shields.io/badge/VER_PRESENTACIÓN-00D4FF?style=flat)](https://canva.com/design/JKL012/view) | | |
 
 </div>
 
