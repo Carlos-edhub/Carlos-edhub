@@ -63,9 +63,37 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
       font-size: 24px;
       cursor: pointer;
       z-index: 10;">></button>
+
+      <!-- Indicadors -->
+  <div id="indicadores" style="
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    "></div>
+      
   </div>
   
 </div>
+
+<script>
+  //Configuramos el carrusel en js
+  const images = [
+    {
+      url: "https://via.placeholder.com/800x450/0A0B2A/00D4FF?text=Presentación+Canva+1",
+      title: "Análisis de Datos",
+      desc: "Infografía interactiva sobre tendencias"
+    },
+    {
+      url: "https://via.placeholder.com/800x450/0066FF/E0F7FA?text=Presentación+Canva+2",
+      title: "Marketing Digital",
+      desc: "Estrategias para redes sociales"
+    }
+    ];
+</script>
 
 ## Mi primer página web
 Tng_shops
