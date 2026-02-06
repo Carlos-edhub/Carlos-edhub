@@ -1,12 +1,16 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Carlos+Cardenas;Programador;Content+Creator;Creador+en+Canva" alt="Título animado" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0066FF,100:0A0B2A&height=200&section=header&text=Transformando+ideas+en+contenido&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
+<!-- BANNER FUTURISTA CON PARTÍCULAS -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0B2A,50:0066FF,100:00D4FF&height=200&section=header&text=¡Hola+Mundo!&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Let's+code+for+a+better+world+🚀&descSize=24&descAlignY=70" />
 
-Hola amigos, ¿que tal? Let's coding for a better world together  👋<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/680fedf1-0e17-411e-a867-0d61096716a2" />
+<!-- AVATAR Y SALUDO -->
+<img width="100" height="100" alt="avatar" src="https://github.com/user-attachments/assets/680fedf1-0e17-411e-a867-0d61096716a2" style="border-radius: 50%; border: 3px solid #00D4FF; margin-top: -50px;" />
+
+<h1>Carlos Daniel Cárdenas Beltrán 👨‍💻</h1>
+
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00D4FF&center=true&width=600&lines=🎓+Estudiante+de+DAM+(Último+año);🌐+Técnico+en+Comercio+Internacional;🚀+Apasionado+por+la+Programación;💡+Innovador+y+Creador+Digital" alt="Descripción animada">
+</h3>
 
 
 Bienvenidos a mi mundo 🌏🌌 
