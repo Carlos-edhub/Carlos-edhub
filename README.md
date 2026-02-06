@@ -11,6 +11,20 @@
 <h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00D4FF&center=true&width=600&lines=🎓+Estudiante+de+DAM+(Último+año);🌐+Técnico+en+Comercio+Internacional;🚀+Apasionado+por+la+Programación;💡+Innovador+y+Creador+Digital" alt="Descripción animada">
 </h3>
+</div>
+
+--- 
+
+## Sobre mí
+<div style="
+  background: linear-gradient(135deg, rgba(10, 11, 42, 0.8) 0%, rgba(0, 102, 255, 0.2) 100%);
+  padding: 25px;
+  border-radius: 20px;
+  border: 1px solid rgba(0, 212, 255, 0.3);
+  box-shadow: 0 0 30px rgba(0, 212, 255, 0.1);
+  margin: 30px 0;
+">
+
 
 
 Bienvenidos a mi mundo 🌏🌌 
