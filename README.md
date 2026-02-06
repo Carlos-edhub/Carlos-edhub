@@ -31,11 +31,31 @@ Bienvenidos a mi mundo 🌏🌌
 
 Hola mi nombre es Carlos Daniel Cárdenas Beltrán, soy estudiante de último año en Desarrollo de Aplicaciones Multiplataforma (DAM). Aparte del mundo tecnológico soy técnico profesional en Comercio Internacional y Transporte y Logistica. Me apasiona la programación y codificar, llevo inmerso en el mundo tecnológico varios años pero ahora enfocado en la informática. Me gusta crear, innovar y sacarle el máximo provecho al mundo informático y digital en mi día a día. 
 
-<!-- Sección Carrusel -->
+</div>
 
+---
 
 ### Proyectos Destacados
 
+<div align="center">
+
+<h2 style="color: #00D4FF; margin-bottom: 30px;">📚 Contenido Educativo en Canva</h2>
+
+<div style="
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  height: 400px;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #0a0b2a 0%, #1a1b3a 50%, #0a0b2a 100%);
+  border: 2px solid;
+  border-image: linear-gradient(45deg, #00D4FF, #0066FF, #00D4FF) 1;
+  box-shadow: 
+    0 0 50px rgba(0, 212, 255, 0.2),
+    inset 0 0 30px rgba(0, 102, 255, 0.1);
+">
 Estas son algunas de las presentaciones que realizo con el fin de generar contenido educativo en Redes Sociales a través de Canva...
 <h2 align="center">Presentaciones educativas</h2>
 <div align="center">
