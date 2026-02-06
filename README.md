@@ -63,8 +63,7 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
       font-size: 24px;
       cursor: pointer;
       z-index: 10;">></button>
-
-      <!-- Indicadors -->
+//indicadores
   <div id="indicadores" style="
     position: absolute;
     bottom: 20px;
