@@ -13,12 +13,59 @@ Bienvenidos a mi mundo 🌏🌌
 
 Hola mi nombre es Carlos Daniel Cárdenas Beltrán, soy estudiante de último año en Desarrollo de Aplicaciones Multiplataforma (DAM). Aparte del mundo tecnológico soy técnico profesional en Comercio Internacional y Transporte y Logistica. Me apasiona la programación y codificar, llevo inmerso en el mundo tecnológico varios años pero ahora enfocado en la informática. Me gusta crear, innovar y sacarle el máximo provecho al mundo informático y digital en mi día a día. 
 
-
+<!-- Sección Carrusel -->
 
 
 ### Proyectos Destacados
 
 Estas son algunas de las presentaciones que realizo con el fin de generar contenido educativo en Redes Sociales a través de Canva...
+<h2 align="center">Presentaciones educativas</h2>
+<div align="center">
+  <div style="
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 212, 255, 0.3);
+    border: 2px solid #00D4FF;"
+    >
+    <div id="contenedor-carrusel" style="display: flex; transtion: transform 0.5s ease;">
+      <!-- Las imágenes se añadirán aquí -->
+    </div>
+    <!-- Flechas -->
+    <button onclick="prevSlide()" style="
+      position: absolute;
+      top:50%;
+      left: 10px;
+      transform: translateY(-50%);
+      background: rgba(10, 11, 42, 0.8);
+      border: 2px solid #00D4FF;
+      color: white;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      font-size: 24px;
+      cursor: pointer;
+      z-index: 10;"><</button>
+
+    <button onclick="nextSlide()" style="
+      position: absolute;
+      top:50%;
+      left: 10px;
+      transform: translateY(-50%);
+      background: rgba(10, 11, 42, 0.8);
+      border: 2px solid #00D4FF;
+      color: white;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      font-size: 24px;
+      cursor: pointer;
+      z-index: 10;">></button>
+  </div>
+  
+</div>
 
 ## Mi primer página web
 Tng_shops
