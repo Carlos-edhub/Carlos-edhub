@@ -119,84 +119,35 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
 
 </div>
 
-<p style="text-align: center; color: #00D4FF; margin-top: 20px; font-size: 14px;">
-Presentaciones creadas para generar contenido educativo en redes sociales
-</p>
-
-</div>
-
-<style>
-@keyframes slide {
-  0%, 23% { transform: translateX(0); }
-  25%, 48% { transform: translateX(-25%); }
-  50%, 73% { transform: translateX(-50%); }
-  75%, 98% { transform: translateX(-75%); }
-  100% { transform: translateX(0); }
-}
-
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.5; }
-}
-</style>
-
----
 <div align="center">
-  <div style="
-    position: relative;
-    max-width: 800px;
-    margin: 0 auto;
-    overflow: hidden;
-    border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(0, 212, 255, 0.3);
-    border: 2px solid #00D4FF;"
-    >
-    <div id="contenedor-carrusel" style="display: flex; transtion: transform 0.5s ease;">
-      <!-- Las imágenes se añadirán aquí -->
-    </div>
-    <!-- Flechas -->
-  <button onclick="prevSlide()" style="
-      position: absolute;
-      top:50%;
-      left: 10px;
-      transform: translateY(-50%);
-      background: rgba(10, 11, 42, 0.8);
-      border: 2px solid #00D4FF;
-      color: white;
-      width: 50px;
-      height: 50px;
-      border-radius: 50%;
-      font-size: 24px;
-      cursor: pointer;
-      z-index: 10;"><</button>
+<h2>📚 Contenido Educativo en Canva</h2>
 
-  <button onclick="nextSlide()" style="
-      position: absolute;
-      top:50%;
-      left: 10px;
-      transform: translateY(-50%);
-      background: rgba(10, 11, 42, 0.8);
-      border: 2px solid #00D4FF;
-      color: white;
-      width: 50px;
-      height: 50px;
-      border-radius: 50%;
-      font-size: 24px;
-      cursor: pointer;
-      z-index: 10;">></button>
+<div style="
+  display: flex;
+  overflow-x: auto;
+  gap: 20px;
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+  scroll-snap-type: x mandatory;
+">
 
-  <div id="indicadores" style="
-    position: absolute;
-    bottom: 20px;
-    left: 0;
-    right: 0;
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    "></div>
-      
-  </div>
-  
+<div style="
+  flex: 0 0 auto;
+  width: 300px;
+  height: 300px;
+  scroll-snap-align: start;
+  background: linear-gradient(135deg, #0066FF, #00D4FF);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #00D4FF;
+">
+  <span style="font-size: 40px;">🫙</span>
+  <h3 style="color: white; margin: 15px 0;">Perfume Árabe</h3>
+  <p style="color: #E0F7FA; text-align: center;">Marketing olfativo</p>
 </div>
 
 
