@@ -78,94 +78,19 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
   
 </div>
 
-<script>
-  //Configuramos el carrusel en js
-  const images = [
-    {
-      url: "https://via.placeholder.com/800x450/0A0B2A/00D4FF?text=Presentación+Canva+1",
-      title: "Análisis de Datos",
-      desc: "Infografía interactiva sobre tendencias"
-    },
-    {
-      url: "https://via.placeholder.com/800x450/0066FF/E0F7FA?text=Presentación+Canva+2",
-      title: "Marketing Digital",
-      desc: "Estrategias para redes sociales"
-    },
-    {
-      url: "https://via.placeholder.com/800x450/00D4FF/0A0B2A?text=Presentación+Canva+3",
-      title: "Educación Online",
-      desc: "Metodologías de enseñanza virtual"
-    },
-    {
-      url: "https://via.placeholder.com/800x450/8A2BE2/FFFFFF?text=Presentación+Canva+4",
-      title: "Diseño Gráfico",
-      desc: "Principios básicos del diseño"
-    } 
-    ];
-  let currentSlide = 0;
-  const container = document.getElementById('contenedor-carrusel');
-  const indicador = document.getElementById('indicadores');
+<div align="center">
 
-  //Creamos los slides  
-  images.forEach(img, index) => {
-    const slide = document.createElement('div');
-    slide.style.minWidth ="100%";
-    slide.style.textAlign = "center";
-    slide.style.padding ="20px";
+| | | |
+|---|---|---|
+| [![Análisis de Datos](https://via.placeholder.com/250x150/0066FF/FFFFFF?text=📊)](https://canva.com/link1) | [![Marketing](https://via.placeholder.com/250x150/00D4FF/0A0B2A?text=📱)](https://canva.com/link2) | [![Educación](https://via.placeholder.com/250x150/8A2BE2/FFFFFF?text=🎓)](https://canva.com/link3) |
+| **Análisis de Datos** | **Marketing Digital** | **Educación Online** |
+| [![Ver Presentación](https://img.shields.io/badge/VER-0066FF)](https://canva.com/link1) | [![Ver Presentación](https://img.shields.io/badge/VER-00D4FF)](https://canva.com/link2) | [![Ver Presentación](https://img.shields.io/badge/VER-8A2BE2)](https://canva.com/link3) |
 
-    slide.innerHTML = `
-      <img src="${img.url}"
-           alt="${img.title}"
-           style="width: 100%; max-width: 700px; border-radius: 10px; margin-bottom: 15px;">
-      <h3 style="color: #00D4FF; margin: 10px 0;">${img.title}</h3>
-      <p style="color: #E0F7FA; max-width: 600px; margin: 0 auto;">${img.desc}</p>
-      `;
+</div>
 
-    container.appendChild(slide);
-
-    // Creamos indicadores 
-    const indicator = document.createElement('div');
-    indicator.style.width = "12px";
-    indicator.style.height = "12px";
-    indicator.style.borderRadius = "50%";
-    indicator.style.backgroundColor = index === 0 ? "#00D4FF" : "rgba(255,255,255,0.5)";
-    indicator.style.cursor = "pointer";
-    indicator.onClick = () => goToSlide(index);
-    indicators.appendChild(indicator);
-  });
-
-// Funciones del carrusel
-function updateCarousel() {
-  container.style.transform = `translateX(-${currentSlide * 100}%)`;
-  
-  // Actualizar indicadores
-  document.querySelectorAll('#indicators div').forEach((ind, index) => {
-    ind.style.backgroundColor = index === currentSlide ? "#00D4FF" : "rgba(255,255,255,0.5)";
-  });
-}
-
-function nextSlide() {
-  currentSlide = (currentSlide + 1) % images.length;
-  updateCarousel();
-}
-
-function prevSlide() {
-  currentSlide = (currentSlide - 1 + images.length) % images.length;
-  updateCarousel();
-}
-
-function goToSlide(index) {
-  currentSlide = index;
-  updateCarousel();
-}
-
-// Auto-play cada 5 segundos
-setInterval(nextSlide, 5000);
-
-// Inicializar
-updateCarousel();
-
-</script>
+<p align="center">
+  <em>Haz clic en cualquier imagen para ver la presentación completa en Canva</em>
+</p>
 
 ## Mi primer página web
 Tng_shops
