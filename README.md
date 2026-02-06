@@ -60,8 +60,6 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
 <h2 align="center">Presentaciones educativas</h2>
 
 <div align="center">
-<h2>📚 Contenido Educativo en Canva</h2>
-
 <div style="
   display: flex;
   overflow-x: auto;
