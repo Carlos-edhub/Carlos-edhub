@@ -84,7 +84,7 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
 |---|---|---|
 | [![Contenido perfume árabe](https://r-charts.com/es/miscelanea/procesamiento-imagenes-magick/)](https://www.canva.com/design/DAHARBdSBy0/WWrtu5QMKyjHG8-tLyjOqQ/edit?utm_content=DAHARBdSBy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [![Sostenibilidad Digital](https://www.canva.com/design/DAG27nWTPqk/-DVjvhS9WIjQgN_0pa_lRA/edit?utm_content=DAG27nWTPqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
 | **Marketing Digital** | **Consciencia Digital** |
-| [![Ver Presentación](https://img.shields.io/badge/VER-0066FF)](https://canva.com/link1) | [![Ver Presentación](https://img.shields.io/badge/VER-00D4FF)](https://canva.com/link2) |
+| [![Ver Presentación](https://www.canva.com/design/DAHARBdSBy0/WWrtu5QMKyjHG8-tLyjOqQ/edit?utm_content=DAHARBdSBy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [![Ver Presentación](https://www.canva.com/design/DAG27nWTPqk/-DVjvhS9WIjQgN_0pa_lRA/edit?utm_content=DAG27nWTPqk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 
 </div>
 
