@@ -58,6 +58,89 @@ Hola mi nombre es Carlos Daniel Cárdenas Beltrán, soy estudiante de último a�
 ">
 Estas son algunas de las presentaciones que realizo con el fin de generar contenido educativo en Redes Sociales a través de Canva...
 <h2 align="center">Presentaciones educativas</h2>
+
+<!-- CONTENEDOR DE IMÁGENES -->
+<div style="
+  display: flex;
+  width: 400%;
+  height: 100%;
+  animation: slide 20s infinite linear;
+">
+
+<!-- IMAGEN 1 -->
+<div style="flex: 1; padding: 20px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <div style="width: 100%; height: 250px; background: linear-gradient(135deg, #0066FF, #00D4FF); border-radius: 15px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+    <span style="color: white; font-size: 24px; font-weight: bold;">Perfume Árabe</span>
+  </div>
+  <p style="color: #E0F7FA; text-align: center;">Estrategias de marketing olfativo</p>
+</div>
+
+<!-- IMAGEN 2 -->
+<div style="flex: 1; padding: 20px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <div style="width: 100%; height: 250px; background: linear-gradient(135deg, #00D4FF, #8A2BE2); border-radius: 15px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+    <span style="color: white; font-size: 24px; font-weight: bold;">Sostenibilidad Digital</span>
+  </div>
+  <p style="color: #E0F7FA; text-align: center;">Prácticas eco-friendly en digital</p>
+</div>
+
+<!-- IMAGEN 3 -->
+<div style="flex: 1; padding: 20px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <div style="width: 100%; height: 250px; background: linear-gradient(135deg, #8A2BE2, #0066FF); border-radius: 15px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+    <span style="color: white; font-size: 24px; font-weight: bold;">Marketing Digital</span>
+  </div>
+  <p style="color: #E0F7FA; text-align: center;">Estrategias actuales para redes</p>
+</div>
+
+<!-- IMAGEN 4 -->
+<div style="flex: 1; padding: 20px; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <div style="width: 100%; height: 250px; background: linear-gradient(135deg, #0A0B2A, #00D4FF); border-radius: 15px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+    <span style="color: white; font-size: 24px; font-weight: bold;">Consciencia Digital</span>
+  </div>
+  <p style="color: #E0F7FA; text-align: center;">Uso responsable de tecnología</p>
+</div>
+
+</div>
+
+<!-- INDICADORES -->
+<div style="
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+">
+  <div style="width: 12px; height: 12px; border-radius: 50%; background: #00D4FF; animation: pulse 2s infinite;"></div>
+  <div style="width: 12px; height: 12px; border-radius: 50%; background: rgba(0, 212, 255, 0.5);"></div>
+  <div style="width: 12px; height: 12px; border-radius: 50%; background: rgba(0, 212, 255, 0.5);"></div>
+  <div style="width: 12px; height: 12px; border-radius: 50%; background: rgba(0, 212, 255, 0.5);"></div>
+</div>
+
+</div>
+
+<p style="text-align: center; color: #00D4FF; margin-top: 20px; font-size: 14px;">
+Presentaciones creadas para generar contenido educativo en redes sociales
+</p>
+
+</div>
+
+<style>
+@keyframes slide {
+  0%, 23% { transform: translateX(0); }
+  25%, 48% { transform: translateX(-25%); }
+  50%, 73% { transform: translateX(-50%); }
+  75%, 98% { transform: translateX(-75%); }
+  100% { transform: translateX(0); }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+</style>
+
+---
 <div align="center">
   <div style="
     position: relative;
