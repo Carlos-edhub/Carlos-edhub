@@ -34,7 +34,7 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
       <!-- Las imágenes se añadirán aquí -->
     </div>
     <!-- Flechas -->
-    <button onclick="prevSlide()" style="
+  <button onclick="prevSlide()" style="
       position: absolute;
       top:50%;
       left: 10px;
@@ -49,7 +49,7 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
       cursor: pointer;
       z-index: 10;"><</button>
 
-   <button onclick="nextSlide()" style="
+  <button onclick="nextSlide()" style="
       position: absolute;
       top:50%;
       left: 10px;
@@ -134,8 +134,37 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
     indicators.appendChild(indicator);
   });
 
+// Funciones del carrusel
+function updateCarousel() {
+  container.style.transform = `translateX(-${currentSlide * 100}%)`;
   
-    
+  // Actualizar indicadores
+  document.querySelectorAll('#indicators div').forEach((ind, index) => {
+    ind.style.backgroundColor = index === currentSlide ? "#00D4FF" : "rgba(255,255,255,0.5)";
+  });
+}
+
+function nextSlide() {
+  currentSlide = (currentSlide + 1) % images.length;
+  updateCarousel();
+}
+
+function prevSlide() {
+  currentSlide = (currentSlide - 1 + images.length) % images.length;
+  updateCarousel();
+}
+
+function goToSlide(index) {
+  currentSlide = index;
+  updateCarousel();
+}
+
+// Auto-play cada 5 segundos
+setInterval(nextSlide, 5000);
+
+// Inicializar
+updateCarousel();
+
 </script>
 
 ## Mi primer página web
