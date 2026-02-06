@@ -78,22 +78,6 @@ Estas son algunas de las presentaciones que realizo con el fin de generar conten
   
 </div>
 
-<div align="center">
-
-| | | |
-|---|---|---|
-| [![Perfume Árabe](https://via.placeholder.com/280x180/0066FF/FFFFFF?text=🫙+Perfume+Árabe&font-size=16)](https://canva.com/design/ABC123/view) | [![Sostenibilidad Digital](https://via.placeholder.com/280x180/00D4FF/0A0B2A?text=🌱+Sostenibilidad+Digital)](https://canva.com/design/DEF456/view) | [![Marketing Digital](https://via.placeholder.com/280x180/8A2BE2/FFFFFF?text=📱+Marketing+Digital)](https://canva.com/design/GHI789/view) |
-| **Contenido Perfume Árabe**<br>Estrategias de marketing olfativo | **Sostenibilidad Digital**<br>Prácticas eco-friendly en digital | **Marketing Digital**<br>Estrategias actuales para redes |
-| [![Ver Presentación](https://img.shields.io/badge/VER_PRESENTACIÓN-0066FF?style=flat&logo=eye)](https://canva.com/design/ABC123/view) | [![Ver Presentación](https://img.shields.io/badge/VER_PRESENTACIÓN-00D4FF?style=flat)](https://canva.com/design/DEF456/view) | [![Ver Presentación](https://img.shields.io/badge/VER_PRESENTACIÓN-8A2BE2?style=flat)](https://canva.com/design/GHI789/view) |
-| [![Consciencia Digital](https://via.placeholder.com/280x180/0A0B2A/00D4FF?text=🧠+Consciencia+Digital)](https://canva.com/design/JKL012/view) | | |
-| **Consciencia Digital**<br>Uso responsable de tecnología | | |
-| [![Ver Presentación](https://img.shields.io/badge/VER_PRESENTACIÓN-00D4FF?style=flat)](https://canva.com/design/JKL012/view) | | |
-
-</div>
-
-<p align="center">
-  <em>Haz clic en cualquier imagen para ver la presentación completa en Canva</em>
-</p>
 
 ## Mi primer página web
 Tng_shops
