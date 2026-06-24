@@ -9,7 +9,7 @@
 <h1>Carlos Daniel Cárdenas Beltrán 👨‍💻</h1>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00D4FF&center=true&width=600&lines=🎓+Estudiante+de+DAM+(Último+año);🌐+Técnico+en+Comercio+Internacional;🚀+Apasionado+por+la+Programación;💡+Innovador+y+Creador+Digital" alt="Descripción animada">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00D4FF&center=true&width=600&lines=🎓+Desarrollador+junior+con+enfoque+en+Backend+y+Frontend;🌐+Técnico+en+Comercio+Internacional;🚀+Apasionado+por+la+Programación;💡+Innovador+y+Creador+Digital" alt="Descripción animada">
 </h3>
 </div>
 
