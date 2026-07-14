@@ -1,103 +1,116 @@
 <div align="center">
 
-<!-- BANNER FUTURISTA CON PARTÍCULAS -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0B2A,50:0066FF,100:00D4FF&height=200&section=header&text=¡Hola+Mundo!&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Let's+code+for+a+better+world+🚀&descSize=24&descAlignY=70" />
+# Carlos Daniel Cárdenas Beltrán
 
-<!-- AVATAR Y SALUDO -->
-<img width="100" height="100" alt="avatar" src="https://github.com/user-attachments/assets/680fedf1-0e17-411e-a867-0d61096716a2" style="border-radius: 50%; border: 3px solid #00D4FF; margin-top: -50px;" />
+### Full Stack Developer
 
-<h1>Carlos Daniel Cárdenas Beltrán 👨‍💻</h1>
+Building scalable software through continuous learning.
 
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=00D4FF&center=true&width=600&lines=🎓+Desarrollador+junior;🚀+Enfoque+en+Frontend+Backend;🌐+Técnico+en+Comercio+Internacional;🚀+Apasionado+por+la+Programación;💡+Innovador+y+Creador+Digital" alt="Descripción animada">
-</h3>
+<p>
+  <a href="https://www.linkedin.com/in/carlosdanielcardenas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:carloscardenas.pv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### React • Next.js • NestJS • TypeScript • Java
+
 </div>
 
---- 
+# 👋 About Me
 
-## Sobre mí
-<div style="
-  background: linear-gradient(135deg, rgba(10, 11, 42, 0.8) 0%, rgba(0, 102, 255, 0.2) 100%);
-  padding: 25px;
-  border-radius: 20px;
-  border: 1px solid rgba(0, 212, 255, 0.3);
-  box-shadow: 0 0 30px rgba(0, 212, 255, 0.1);
-  margin: 30px 0;
-">
+I'm a **Full Stack Developer** passionate about building modern, scalable and user-focused applications.
 
+Recently graduated in **Multiplatform Application Development (DAM)**, I completed my professional internship at **Uniclima Solutios S.L.**, where I worked with modern technologies including:
 
+- React
+- Next.js
+- NestJS
+- TypeScript
+- Java
+- Docker
+- Git & GitHub
+- Scrum
 
-Bienvenidos a mi mundo 🌏🌌 
+Besides my software background, I also hold a degree in **International Trade and Logistics**, which has strengthened my communication, analytical thinking and problem-solving skills.
 
-Hola mi nombre es Carlos Daniel Cárdenas Beltrán, soy Desarrollador de Aplicaciones Multiplataforma Junior. Aparte del mundo tecnológico soy técnico profesional en Comercio Internacional y Transporte y Logistica. Me apasiona la programación y codificar, llevo inmerso en el mundo tecnológico varios años pero ahora enfocado en la informática. Me gusta crear, innovar y sacarle el máximo provecho al mundo informático y digital en mi día a día. 
+I enjoy creating software, learning every day and taking on new technical challenges.
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+- React
+- Next.js
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+
+### Backend
+
+- Java
+- NestJS
+- SQL
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- CLI
+- Scrum
+- VS Code
+- IntelliJ IDEA
+
+---
+
+# 🚀 Featured Projects
+
+Coming soon...
+
+The next repositories published here will follow production-level practices including:
+
+- Documentation
+- Clean Architecture
+- Responsive UI
+- Git Workflow
+- Professional README
+
+---
+
+# 📚 Currently Learning
+
+- Docker
+- AWS Cloud
+- Clean Architecture
+- Software Design
+- System Design
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Carlos-edhub&show_icons=true&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-edhub&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
 ---
 
-### Proyectos Destacados
+# 📫 Let's Connect
 
-<div align="center">
+📍 Madrid, Spain
 
-<div style="
-  position: relative;
-  width: 100%;
-  max-width: 900px;
-  height: 400px;
-  margin: 0 auto;
-  overflow: hidden;
-  border-radius: 20px;
-  background: linear-gradient(135deg, #0a0b2a 0%, #1a1b3a 50%, #0a0b2a 100%);
-  border: 2px solid;
-  border-image: linear-gradient(45deg, #00D4FF, #0066FF, #00D4FF) 1;
-  box-shadow: 
-    0 0 50px rgba(0, 212, 255, 0.2),
-    inset 0 0 30px rgba(0, 102, 255, 0.1);
-">
-Me gusta realizar diferentes presentaciones educativas a través de canva para enseñar a quienes les interesa el mundo de la informática y tecnología.
-
-<div align="center">
-<div style="
-  display: flex;
-  overflow-x: auto;
-  gap: 20px;
-  padding: 20px;
-  max-width: 900px;
-  margin: 0 auto;
-  scroll-snap-type: x mandatory;
-">
-
-<div style="
-  flex: 0 0 auto;
-  width: 300px;
-  height: 300px;
-  scroll-snap-align: start;
-  background: linear-gradient(135deg, #0066FF, #00D4FF);
-  border-radius: 15px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  border: 2px solid #00D4FF;
-">
-  <img src="C:\Users\carlo\Pictures\Gemini_Generated_Image_4nhz2t4nhz2t4nhz.png">
-  <h3 style="color: white; margin: 15px 0;">Perfume Árabe</h3>
-  <p style="color: #E0F7FA; text-align: center;">Marketing olfativo</p>
-</div>
-
-
-## Mi primer página web
-Tng_shops
-<p>https://carlos-edhub.github.io/PaginaWeb/</p>
-
-
-
-### ¿Como contactarme?
-<ul>
-  <li>📲(+34) 663 07 93 12</li>
-  <li>📩 carloscardenas.pv@gmail.com</li>
-  <li>LinkedIn: www.linkedin.com/in/carlosdanielcardenas</li>
-</ul>
-
-
-
+- LinkedIn → https://linkedin.com/in/carlosdanielcardenas
+- Email → carloscardenas.pv@gmail.com
