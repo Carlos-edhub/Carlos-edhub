@@ -1,113 +1,105 @@
 <div align="center">
 
-# Carlos Daniel Cárdenas Beltrán
+# Carlos Daniel Cárdenas
 
 ### Full Stack Developer
 
-Building scalable software through continuous learning.
+Building modern software through continuous learning.
+
+<br>
+
+<a href="https://www.linkedin.com/in/TU-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:TUEMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👋 About Me
+
+I'm a Full Stack Developer passionate about building modern web applications with clean architecture, scalable solutions and intuitive user experiences.
+
+I recently graduated in **Multiplatform Application Development (DAM)** and completed my internship at **Uniclima Solutios S.L.**, where I contributed to Full Stack development using modern technologies and agile methodologies.
+
+Besides my technical background, I hold a degree in **International Trade and Logistics**, giving me strong communication, organization and problem-solving skills that I bring into software development.
+
+I'm currently looking for an opportunity where I can continue learning, contribute to real-world projects and grow as a software developer.
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
 
 <p>
-  <a href="https://www.linkedin.com/in/carlosdanielcardenas">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+</p>
 
-  <a href="mailto:carloscardenas.pv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,nestjs,python,postgres,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,figma" />
 </p>
 
 ---
 
-### React • Next.js • NestJS • TypeScript • Java
+# 💼 Experience
 
-</div>
+### Full Stack Developer Intern
 
-# 👋 About Me
+**Uniclima Solutios S.L.**
 
-Hi, I'm Carlos
-
-I build modern web applications with React, Next.js and Java.
-Currently looking for my first opportunity as a Full Stack Developer.
-
-Recently graduated in **Multiplatform Application Development (DAM)**, I completed my professional internship at **Uniclima Solutios S.L.**, where I worked with modern technologies including:
-
-- React
-- Next.js
-- NestJS
-- TypeScript
-- Java
-- Docker
-- Git & GitHub
-- Scrum
-
-Besides my software background, I also hold a degree in **International Trade and Logistics**, which has strengthened my communication, analytical thinking and problem-solving skills.
-
-I enjoy creating software, learning every day and taking on new technical challenges.
+- Developed modern web applications using React, Next.js and NestJS.
+- Built responsive user interfaces following UI/UX principles.
+- Collaborated using Git, GitHub and Scrum methodologies.
+- Worked with Docker and command line tools.
+- Integrated AI-powered tools into the development workflow.
+- Participated in brainstorming sessions and feature planning.
 
 ---
 
-# 💻 Tech Stack
-
-### Frontend
-
-- React
-- Next.js
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-
-### Backend
-
-- Java
-- NestJS
-- SQL
-
-### Tools
-
-- Git
-- GitHub
-- Docker
-- CLI
-- Scrum
-- VS Code
-- IntelliJ IDEA
-
----
-
-# 🚀 Featured Projects
-
-Coming soon...
-
-The next repositories published here will follow production-level practices including:
-
-- Documentation
-- Clean Architecture
-- Responsive UI
-- Git Workflow
-- Professional README
-
----
-
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
 - Docker
 - AWS Cloud
 - Clean Architecture
+- Testing
 - Software Design
-- System Design
 
 ---
 
-# 📈 GitHub Stats
+# 📌 Current Goals
 
-<div align="center">
+✅ Build production-ready Full Stack projects
 
-![](https://github-readme-stats.vercel.app/api?username=Carlos-edhub&show_icons=true&theme=transparent&hide_border=true)
+✅ Improve system design knowledge
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-edhub&layout=compact&theme=transparent&hide_border=true)
+✅ Master Docker & Cloud technologies
 
-</div>
+✅ Contribute to Open Source
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Carlos-edhub&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-edhub&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -115,5 +107,8 @@ The next repositories published here will follow production-level practices incl
 
 📍 Madrid, Spain
 
-- LinkedIn → https://linkedin.com/in/carlosdanielcardenas
-- Email → carloscardenas.pv@gmail.com
+💼 Open to Work
+
+📧 TUEMAIL
+
+💻 LinkedIn: https://linkedin.com/in/TU-LINKEDIN
