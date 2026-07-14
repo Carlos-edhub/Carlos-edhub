@@ -27,7 +27,6 @@ Building scalable software through continuous learning.
 Hi, I'm Carlos
 
 I build modern web applications with React, Next.js and Java.
-
 Currently looking for my first opportunity as a Full Stack Developer.
 
 Recently graduated in **Multiplatform Application Development (DAM)**, I completed my professional internship at **Uniclima Solutios S.L.**, where I worked with modern technologies including:
